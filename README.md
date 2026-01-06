@@ -28,3 +28,11 @@ Görevler local storage ile tarayıcıya kaydedilir, böylece sayfa yenilense bi
 
 ## Credits
 - AI destekli geliştirme ile oluşturuldu.
+- ## Docker ile Çalıştırma
+
+1. Docker imajını oluştur:
+
+2. Docker container’ı başlat:
+
+3. Tarayıcıda aç:
+
